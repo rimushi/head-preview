@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "element-ui": "^2.10.1",
+    "exif-js": "^2.3.0",
+    "lrz": "^4.9.40",
     "vue": "^2.6.10"
   },
   "devDependencies": {
